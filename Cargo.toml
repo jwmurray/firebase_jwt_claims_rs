@@ -1,5 +1,5 @@
 [package]
-name = "firebase-jwt-claims-rs"
+name = "firebase_jwt_claims_rs"
 version = "0.1.0"
 edition = "2021"
 
