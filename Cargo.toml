@@ -1,0 +1,12 @@
+[package]
+name = "firebase-jwt-claims-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctor = "0.2.9"
+jsonwebtoken = "9.3.0"
+reqwest = "0.12.12"
+serde = "1.0.217"
+serde_json = "1.0.137"
+tokio = { version = "1.43.0", features = ["full"] }
